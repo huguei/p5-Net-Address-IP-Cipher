@@ -1,4 +1,4 @@
-package Net::Address::IP::Cipher;
+package Net::Address::IP::Cipher 0.1;
 
 use 5.006;
 use strict;
@@ -18,7 +18,7 @@ address, for pseudo anonymization.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.1
 
 =cut
 
@@ -336,6 +336,10 @@ L<http://cpanratings.perl.org/d/Net-Address-IP-Cipher>
 L<http://search.cpan.org/dist/Net-Address-IP-Cipher/>
 
 =back
+
+=head1 REPOSITORY
+
+L<https://github.com/huguei/p5-Net-Address-IP-Cipher>
 
 =head1 ACKNOWLEDGEMENTS
 

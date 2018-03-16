@@ -30,8 +30,8 @@ WriteMakefile(
         resources => {
             repository => {
                 type => 'git',
-                url  => 'https://github.com/huguei/Net-Address-IP-Cipher.git',
-                web  => 'https://github.com/huguei/Net-Address-IP-Cipher',
+                url  => 'https://github.com/huguei/p5-Net-Address-IP-Cipher.git',
+                web  => 'https://github.com/huguei/p5-Net-Address-IP-Cipher',
             },
         },
     },
