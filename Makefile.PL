@@ -19,8 +19,10 @@ WriteMakefile(
         'Test::More' => 0,
     },
     PREREQ_PM => {
-        #'ABC'              => 1.6,
-        #'Foo::Bar::Module' => 5.0401,
+        'Net::IP'            => 0,
+        'MIME::Base64'       => 0,
+        'Crypt::PBKDF2'      => 0,
+        'Crypt::Cipher::AES' => 0,
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Net-Address-IP-Cipher-*' },
