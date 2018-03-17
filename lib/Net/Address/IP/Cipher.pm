@@ -1,4 +1,4 @@
-package Net::Address::IP::Cipher 0.1;
+package Net::Address::IP::Cipher 0.2;
 
 use 5.006;
 use strict;
@@ -18,7 +18,7 @@ address, for pseudo anonymization.
 
 =head1 VERSION
 
-Version 0.1
+Version 0.2
 
 =cut
 
