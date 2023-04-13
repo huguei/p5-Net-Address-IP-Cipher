@@ -300,13 +300,9 @@ You can also look for information at:
 
 L<https://github.com/huguei/p5-Net-Address-IP-Cipher/issues>
 
-=item * CPAN Ratings
+=item * MetaCPAN
 
-L<http://cpanratings.perl.org/d/Net-Address-IP-Cipher>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/Net-Address-IP-Cipher/>
+L<https://metacpan.org/dist/Net-Address-IP-Cipher>
 
 =back
 
